@@ -9,7 +9,9 @@
     "build-watch": "vue-cli-service build-watch"
   },
   "dependencies": {
+    "babel-plugin-component": "^1.1.1",
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
     "vue": "^2.6.11"
   },
   "devDependencies": {
